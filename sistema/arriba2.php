@@ -66,7 +66,7 @@ if (($_SESSION["autenticado"] == "si") && ($_SESSION["privilegios"] > 2))
       <li><a href="http://www.oswd.org/">OSWD</a></li>
     </ul>-->
   </div>
-  <a href="indexValidado.php" style="border:0"><img src="imagenes/logoDemo.jpg" width="169" height="116"></a>
+  <a href="indexValidado.php" style="border:0"><img src="imagenes/logoDemo3.jpg" width="169" height="116"></a>
   <div class="page_title"><span id="page_title">Dra. Natalia Paredes Salfate </span></div>
 </div>
 <div class="leftcontent" id="nav"> <img alt="bg image" src="imagenes/left_bg_top.gif" />
